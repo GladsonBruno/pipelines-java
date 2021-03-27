@@ -1,4 +1,4 @@
-
+[![Build Status](https://gladsonbruno16.visualstudio.com/Java%20Pipeline%20Example/_apis/build/status/GladsonBruno.pipelines-java?branchName=master)](https://gladsonbruno16.visualstudio.com/Java%20Pipeline%20Example/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
